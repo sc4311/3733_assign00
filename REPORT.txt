@@ -1,0 +1,11 @@
+1. Collaboration
+I did not get or give any help for this assignment. Consequently, there was no collaboration with other individuals.
+
+2. Correctness
+I believe everything I did for this assignment is correct. The implementation works exactly as described in the assignment instructions.
+
+3. Non-Working Parts
+This section is not applicable as everything is functioning correctly according to the assignment description.
+
+4. Comments
+The assignment was quite interesting and engaging. One of the challenges I faced was debugging, particularly in the calling of different files. This issue arose because I did not set up the project in CLion correctly. Despite this, the overall experience was educational and enjoyable.
