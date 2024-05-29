@@ -36,22 +36,16 @@ The driver program (driver1.c) interacts with the user to manage a linked list o
 6.	Print the minimum, average, and maximum GPAs.
 7.	Remove the student record with the highest GPA.
 8.	Exit the program.
+
+
 Report Summary
 •	Collaboration: No collaboration with other individuals.
 •	Correctness: All functionalities work as described in the assignment instructions.
 •	Non-Working Parts: Not applicable, everything is functioning correctly.
 •	Comments: The assignment was interesting and engaging, with debugging being a notable challenge due to incorrect project setup in CLion.
 For more details, refer to REPORT.txt.
-Notes
-•	Ensure there are no memory leaks by running the program with Valgrind.
-•	Follow programming style guidelines and include comments for clarity.
-Submission Instructions
-•	Clean the build files:
-make clean
 
-•	Zip the project directory:
-zip -r abc123-assign0.zip abc123-assign0 
-•	Submit the zip file through Canvas before the deadline.
+
 Grading
 This assignment is worth 30 points:
 •	10 points for implementing existing functions in the library.
