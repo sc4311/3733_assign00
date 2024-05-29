@@ -1,6 +1,8 @@
 Assignment 00 - CS 3733 Operating Systems
 Overview
 This repository contains the implementation of Assignment 00 for the CS 3733 Operating Systems course. The goal of this assignment is to develop a simple linked list library in C and create a driver program to interact with it. The repository includes source files, a Makefile, and a report detailing the implementation process.
+
+
 Files
 •	assign00.pdf: Assignment instructions.
 •	driver1.c: Main driver program.
@@ -9,6 +11,10 @@ Files
 •	CMakeLists.txt: CMake build configuration.
 •	Makefile: Makefile for building the project.
 •	REPORT.txt: Report describing the implementation process and answering specific questions.
+
+
+
+
 Build and Run Instructions
 Using CMake
 1.	Create a build directory:
@@ -19,6 +25,7 @@ cmake ..
 make 
 4.	Run the driver program:
 ./assign0
+
 
 
 Using Makefile
@@ -38,12 +45,16 @@ The driver program (driver1.c) interacts with the user to manage a linked list o
 8.	Exit the program.
 
 
+
+
 Report Summary
 •	Collaboration: No collaboration with other individuals.
 •	Correctness: All functionalities work as described in the assignment instructions.
 •	Non-Working Parts: Not applicable, everything is functioning correctly.
 •	Comments: The assignment was interesting and engaging, with debugging being a notable challenge due to incorrect project setup in CLion.
 For more details, refer to REPORT.txt.
+
+
 
 
 Grading
