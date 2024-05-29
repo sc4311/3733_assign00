@@ -12,29 +12,19 @@ Files
 Build and Run Instructions
 Using CMake
 1.	Create a build directory:
-sh
-Copy code
 mkdir build cd build 
 2.	Generate build files using CMake:
-sh
-Copy code
 cmake .. 
 3.	Build the project:
-sh
-Copy code
 make 
 4.	Run the driver program:
-sh
-Copy code
-./assign0 
+./assign0
+
+
 Using Makefile
 1.	Build the project:
-sh
-Copy code
 make 
 2.	Run the driver program:
-sh
-Copy code
 ./driver1 
 Functionality
 The driver program (driver1.c) interacts with the user to manage a linked list of student records. The user can perform the following actions:
@@ -57,12 +47,9 @@ Notes
 •	Follow programming style guidelines and include comments for clarity.
 Submission Instructions
 •	Clean the build files:
-sh
-Copy code
-make clean 
+make clean
+
 •	Zip the project directory:
-sh
-Copy code
 zip -r abc123-assign0.zip abc123-assign0 
 •	Submit the zip file through Canvas before the deadline.
 Grading
